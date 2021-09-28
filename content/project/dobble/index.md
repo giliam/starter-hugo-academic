@@ -1,21 +1,21 @@
 ---
-title: Application de reconnaissance vocale des nombres de 0 à 10
-summary: Projet de groupe en Python et C++ réalisé en première année d'école d'ingénieurs.
+title: Générateur de cartes de dobble
+summary: Utilisation de la librairie `flask` pour créer une plateforme de génération de cartes de dobble.
 tags:
-- Machine Learning
-date: "2013-12-15T00:00:00Z"
+- Jeux
+date: "2019-11-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Logo de l'application
+  caption: Principe derrière le dobble d'après http://images.math.cnrs.fr/Dobble-et-la-geometrie-finie.html
   focal_point: Smart
 
 links:
-url_code: ""
+url_code: "https://github.com/giliam/dobble-pancakor"
 url_pdf: ""
-url_slides: "/uploads/migse.pdf"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).

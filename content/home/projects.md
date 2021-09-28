@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: Tous
     tag: '*'
   - name: Machine Learning
     tag: Machine Learning
   - name: Jeux
-    tag: Games
+    tag: Jeux
   - name: Other
     tag: Demo
 
