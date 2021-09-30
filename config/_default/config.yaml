@@ -16,6 +16,8 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
+languageCode: "fr-fr"
+
 ############################
 ## MODULES
 ############################

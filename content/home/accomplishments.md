@@ -16,7 +16,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: January 2006
+# date_format: January 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.

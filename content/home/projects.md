@@ -31,8 +31,10 @@ content:
     tag: Machine Learning
   - name: Jeux
     tag: Jeux
-  - name: Other
-    tag: Demo
+  - name: Plateformes web
+    tag: Plateformes-web
+  - name: Autres
+    tag: Autres
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

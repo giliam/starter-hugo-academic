@@ -1,9 +1,9 @@
 ---
-title: Application de reconnaissance vocale des nombres de 0 à 10
-summary: Projet de groupe en Python et C++ réalisé en première année d'école d'ingénieurs.
+title: Bibliothèque partagée
+summary: Projet en Python/Django.
 tags:
-- Machine Learning
-date: "2013-12-15T00:00:00Z"
+- Plateformes-web
+date: "2016-03-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 links:
-url_code: "https://github.com/giliam/mig2013/"
+url_code: "https://github.com/giliam/sharbrary/"
 url_pdf: ""
-url_slides: "/uploads/migse.pdf"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).

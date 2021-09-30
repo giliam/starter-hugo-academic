@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: January 2006
+# date_format: January 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,24 +22,24 @@ date_format: January 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  # - title: CEO
-  #   company: GenCoin
-  #   company_url: ''
-  #   company_logo: org-gc
-  #   location: California
-  #   date_start: '2021-01-01'
-  #   date_end: ''
-  #   description: |2-
-  #       Responsibilities include:
+  - title: Ingénieur de recherche - Doctorat en mathématiques appliquées
+    company: Centre de Mathématiques Appliquées, MINES ParisTech
+    company_url: https://www.cma.mines-paristech.fr/
+    company_logo: logocma
+    location: Sophia-Antipolis
+    date_start: '2017-10-02'
+    date_end: '2021-04-02'
+    description: |2-
+        Responsibilities include:
         
-  #       * Analysing
-  #       * Modelling
-  #       * Deploying
+        * Analysing
+        * Modelling
+        * Deploying
         
   # - title: Professor of Semiconductor Physics
-  #   company: University X
+  #   company: MINES ParisTech
   #   company_url: ''
-  #   company_logo: org-x
+  #   company_logo: logomines.jpg
   #   location: California
   #   date_start: '2016-01-01'
   #   date_end: '2020-12-31'

@@ -78,4 +78,4 @@ highlight_name: false
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 Après des études d'ingénieur où j'ai été formé à différentes disciplines des mathématiques appliquées, j'ai préparé une thèse de doctorat au sein du *Centre de Mathématiques Appliquées* des Mines de Paris à Sophia-Antipolis. Mon objectif a été de réconcilier deux disciplines, aux langages proches mais distincts, la modélisation prospective et l'urbanisme.
 
-{{< icon name="download" pack="fas" >}} Télécharger mon {{< staticref "uploads/cv_matthieudenoux.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Télécharger mon {{< staticref "uploads/cv_matthieudenoux.pdf" "newtab" >}}cv{{< /staticref >}}.
